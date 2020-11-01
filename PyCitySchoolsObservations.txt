@@ -1,0 +1,6 @@
+PyCitySchools Observations
+1) The more money spent per student in terms of overall budget does not necessarily equate to better performance in reading in math scores. For example, Hernandez High School, which has the highest amount of money per student, does not have the highest average reading or math scores. In addition, only about 54% of students are passing both reading and math. 
+
+2) As a general rule, it appears that students at  Charter schools do better academically than students at district schools of comparable sizes. 
+
+3) Although I didn’t run standard deviations on the average math and reading scores by grade level, it appears based on the tables that the scores for each grade at each school have very little variance from each other. 
